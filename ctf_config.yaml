@@ -1,0 +1,19 @@
+config:
+  categories:
+  - crypto
+  - forensics
+  - misc
+  - pwn
+  - reversing
+  - web
+  difficulties:
+  - name: easy
+    value: 500
+  - name: medium
+    value: 1000
+  - name: hard
+    value: 1500
+  - name: torture
+    value: 2000
+  name: YBN CTF
+  port: 8000
