@@ -32,6 +32,9 @@ The challenge folder structure is as follows:
     │   │   ├── 📄...
     │   │   └── 🐋 Dockerfile
     │   └── 🐋 docker-compose.yml
+    ├── 📁 solution/
+    │   └── 📄 writeup.md
+    │   └── 📄 ...
     ├── 📄 chall.toml
     └── 📄 README.md
 ```
