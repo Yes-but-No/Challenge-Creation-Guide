@@ -89,6 +89,9 @@ After creating your challenge, you need to package it using `chall-architect`. T
 You can find the `ctf_config.toml` file [here](./ctf_config.toml)
 
 ### 2. Run `chall-architect`
+> [!IMPORTANT]
+> When the program prompts you for the flag, it will ask if you want to make it a regex flag, this is useful if your flag has a margin of error, e.g. a coordinate flag for an OSINT challenge. If you are unsure, keep it as a static flag.
+
 For information on how to use `chall-architect`, please refer to [this guide](https://jus-codin.github.io/CTF-Architect/guides/packaging-challenges/)
 
 ### 3. Submit the Challenge
