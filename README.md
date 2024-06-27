@@ -98,7 +98,7 @@ For information on how to use `chall-architect`, please refer to [this guide](ht
 > [!IMPORTANT]
 > Incorrectly formatted or packaged challenges will most likely be rejected. However, you may be contacted for clarification if necessary.
 
-After packaging the challenge, fill up the Google Form and include the zipped challenge for review. If the challenge is accepted, it will be added to the CTF.
+After packaging the challenge, create a post in the YBNCTF Challenge Submission Forum and include the zipped challenge for review. If the challenge is accepted, it will be added to the CTF.
 
 ## Frequently Asked Questions
 - **Q:** What do I do if I don't know how to write a `Dockerfile` for hosted challenges?
